@@ -58,6 +58,7 @@ while fridge.__contains__(current_key) == True and item_count > 0:
 else:
     print "%s was not found in the fridge." % (current_key)
 
+#This comment is to record a change for git
 
     
     
